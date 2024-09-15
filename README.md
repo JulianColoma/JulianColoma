@@ -2,8 +2,7 @@
   Hi im JulianColoma!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
-
+ <img src="https://i.imgur.com/7E5JVf4.png">
 ---
 <div align="center">
   
